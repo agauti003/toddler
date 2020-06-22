@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5351ac96.chunk.css",
+    "main.js": "/static/js/main.feb60ea5.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f8df27c6.js",
+    "static/js/2.0626b05d.chunk.js": "/static/js/2.0626b05d.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.162011bc423ae6c348e0899c55c0d4f8.js": "/precache-manifest.162011bc423ae6c348e0899c55c0d4f8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.0626b05d.chunk.js.LICENSE.txt": "/static/js/2.0626b05d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Gilroy-Light.c62aded7.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8df27c6.js",
+    "static/js/2.0626b05d.chunk.js",
+    "static/css/main.5351ac96.chunk.css",
+    "static/js/main.feb60ea5.chunk.js"
+  ]
+}
